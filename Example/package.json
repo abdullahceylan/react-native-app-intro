@@ -7,8 +7,8 @@
     "ios": "node node_modules/react-native/local-cli/cli.js run-ios"
   },
   "dependencies": {
-    "react": "^0.14.8",
-    "react-native": "^0.24.1",
+    "react": "^15.0.0",
+    "react-native": "^0.39.1",
     "react-native-app-intro": "file:.."
   },
   "devDependencies": {
